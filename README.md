@@ -1,6 +1,6 @@
 # Easy-Convert-Application
 
-This repository contains the work of an android application, Easy Convert. My app's purpose is to provide a more convenient alternative to standard cloud version file converting and web-based conversions. My app is an easy to use, unique, and local means of converting datatypes. The app was built with kivy and python. 
+This repository contains the work of an android application, Easy Convert. The app's purpose is to provide a more convenient alternative to standard cloud version file converting and web-based conversions. It is an easy to use, unique, and local means of converting datatypes. The app was built with kivy and python. 
 
 # How To Use The App
 
